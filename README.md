@@ -1,31 +1,28 @@
-
 # Hi, I'm Lazar Bukejlovic
 
-Frontend Web Developer building modern dashboards and SaaS-style web interfaces.
+Frontend Web Developer focused on modern dashboards, SaaS-style interfaces, and clean product design.
 
 ## About Me
 
-I focus on clean UI, structured layouts, and product-style frontend experiences. My portfolio is currently centered around dashboard and SaaS-inspired projects built with modern web technologies.
+I build responsive frontend applications with a strong focus on UI clarity, structured layouts, and realistic product-style workflows. My portfolio is currently centered around dashboard and SaaS-inspired projects built with modern web technologies.
 
 ## Tech Stack
 
 - React
 - TypeScript
 - JavaScript
-- HTML
-- CSS
 - Tailwind CSS
 - GitHub
 
 ## Featured Projects
 
-### InsightGrid
+### [InsightGrid](https://github.com/lazarbukejlovic-dotcom/insightgrid)
 Analytics-focused SaaS dashboard for billing, reporting, customer activity, and account workflows.
 
-### ClientFlow
+### [ClientFlow](https://github.com/lazarbukejlovic-dotcom/clientflow)
 Business dashboard for managing clients, projects, invoices, and deadlines in one place.
 
-### RoomPulse
+### [RoomPulse](https://github.com/lazarbukejlovic-dotcom/roompulse)
 Real-time workspace monitoring dashboard for rooms, occupancy, and activity insights.
 
 ## Current Focus
