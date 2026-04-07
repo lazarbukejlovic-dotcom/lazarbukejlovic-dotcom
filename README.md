@@ -63,5 +63,7 @@ I’m focused on web development roles where product thinking, UI quality, and b
 ## Contact
 
 - **Email:** lazarbukejlovic@icloud.com
-- **LinkedIn:** `<YOUR_LINKEDIN_URL>`
+- **LinkedIn:** www.linkedin.com/in/
+lazar-bukejlovic
+
 - **GitHub:** https://github.com/lazarbukejlovic-dotcom
