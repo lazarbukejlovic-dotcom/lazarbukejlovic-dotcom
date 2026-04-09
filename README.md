@@ -1,6 +1,6 @@
 # Lazar Bukejlovic
 
-Full-stack web developer focused on building product-style applications that feel finished, usable, and technically grounded.
+Full-stack engineer focused on building product-style applications that feel finished, usable, and technically grounded.
 
 My work is centered around real workflows — booking, billing, client operations, task execution, dashboards, and internal product systems. I’m most interested in projects where both the interface and the underlying logic matter: authentication, data flow, database structure, API behavior, and clean user experience working together as one product.
 
