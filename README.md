@@ -20,7 +20,7 @@ Delivered custom applications for private clients in finance-oriented and digita
 
 ### [Lazar's Personal Website](https://github.com/lazarbukejlovic/lazar-personal-website)
 Premium personal engineering website with integrated resume view, booking flow, and selected project showcase.  
-**Live Demo:** [lazar-builds-it.lovable.app](https://lazar-personalwebsite.lovable.app)
+**Live Demo:** [lazar-personalwebsite.lovable.app](https://lazar-personalwebsite.lovable.app)
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
 Social communication app where posts become conversations through feed interaction, profiles, direct messaging, discovery, and live discussion rooms.  
