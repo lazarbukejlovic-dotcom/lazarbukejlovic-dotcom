@@ -1,8 +1,8 @@
 # Lazar Bukejlovic
 
-**Full-Stack Engineer** focused on building modern product applications with strong frontend execution and practical backend architecture.
+**Full-Stack Engineer** focused on building modern product applications with strong frontend execution and strong backend architecture.
 
-My experience includes product development at **TokenFlow** and direct delivery for **private clients** in finance-oriented and digital asset-related environments. I work best in ownership-driven settings where clean implementation, usability, communication, and full application flow all matter.
+My background includes product development at **TokenFlow** and direct delivery for **private clients** in finance-oriented and digital asset-related environments. I work best in ownership-driven settings where clean implementation, usability, communication, and full application flow all matter.
 
 ## Experience
 
