@@ -26,7 +26,7 @@ Premium personal engineering website with integrated resume view, booking flow, 
 
 ### [ForgeDesk](https://github.com/lazarbukejlovic/Forge-Your-Space)
 A premium full-stack ecommerce product for workspace goods with Stripe checkout, account flows, saved setups, order management, and a role-protected admin dashboard.  
-**Live Demo:** https://forge-your-desk.lovable.app  
+## [Live Demo](https://forge-your-desk.lovable.app)  
 
 ### [EchoRoom](https://github.com/lazarbukejlovic/echoroom)
 Social communication app where posts become conversations through feed interaction, profiles, direct messaging, discovery, and live discussion rooms.  
