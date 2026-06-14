@@ -74,6 +74,10 @@ Delivered **15+ custom web applications** for fintech, SaaS, and data-heavy clie
 Professional portfolio and visual resume site presenting my full-stack engineering profile, selected projects, live demos, contact flow, and resume integration.
 ## [Live](https://personal-website-tau-sandy.vercel.app/)
 
+## [Sightline — Competitive Intelligence SaaS](https://github.com/lazarbukejlovic/sightline)
+Market-ready competitive-intelligence platform for tracking competitor pricing pages, changelogs, news, and hiring pages. Sightline detects meaningful changes, stores snapshots, summarizes impact with AI, shows confidence and cited evidence, supports Ask/RAG answers, scheduled digests, review queues, Stripe billing, AI usage analytics, audit logs, and real-time collaborative battlecards.
+## [Live](https://sightline-eosin.vercel.app/)
+
 ### [MindPad AI — AI Productivity SaaS MVP](https://github.com/lazarbukejlovic/mindpad-ai)
 MindPad AI is a productivity tool designed to minimize the "mental overhead" of task management. Instead of requiring users to manually format, categorize, and prioritize tasks in a traditional Kanban board or list, the app functions as a "capture-and-transform" engine.
 ## [Live](https://mindpad-ai-five.vercel.app/)
