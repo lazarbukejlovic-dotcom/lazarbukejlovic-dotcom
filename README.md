@@ -10,7 +10,7 @@ Currently building at **TokenFlow**.
 
 ## Experience
 
-**TokenFlow — Full-Stack Engineer** · *January 2025 – Present*
+**TokenFlow — Lead Full-Stack Engineer** · *January 2025 – Present*
 
 React/TypeScript product engineering across 3+ concurrent client workstreams, owning features end-to-end from requirements and UI through backend logic, deployment, and post-launch QA. Focused on the parts that quietly break in production — payments, auth, and data integrity.
 
