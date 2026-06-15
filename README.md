@@ -22,7 +22,7 @@ React/TypeScript product engineering across 3+ concurrent client workstreams, ow
 
 ---
 
-**ScaleRoad LLC — Full-Stack Software Engineer** · *September 2023 – January 2025*
+**ScaleRoad LLC — Full-Stack Software Engineer** · *December 2023 – January 2025*
 
 Built operational dashboards and internal tooling in React/TypeScript/Node/PostgreSQL for records, payments, subscriptions, and status tracking — serving **~10,000 monthly active users** under real production load.
 
@@ -34,7 +34,7 @@ Built operational dashboards and internal tooling in React/TypeScript/Node/Postg
 
 ---
 
-**Vertex Digital Studio — Full-Stack Engineer** *(Contract / Remote)* · *November 2022 – December 2023*
+**Vertex Digital Studio — Full-Stack Engineer** *(Contract / Remote)* · *June 2022 – December 2023*
 
 Delivered **15+ custom web applications** for fintech, SaaS, and data-heavy clients, turning business workflows into authenticated dashboards, CRUD tools, and payment flows — owning each project independently from scope to client handoff.
 
